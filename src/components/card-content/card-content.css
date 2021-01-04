@@ -1,0 +1,17 @@
+.card-content-holder {
+    width: 9rem;
+    margin-bottom: 3rem;
+}
+.card-content-holder .card {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 9rem 14rem;
+    height: 14rem;
+}
+
+.card-content-holder .title {
+    font-size: 0.8rem;
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+}

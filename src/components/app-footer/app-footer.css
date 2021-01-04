@@ -1,0 +1,41 @@
+.app-footer {
+    background-color: #282c34;
+    color: #FFFFFF;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.separator:after {
+    content: "";
+    width: 1px;
+    height: 14px;
+    display: block;
+    border-radius: 2px;
+    background-color: #EBEDF3;
+    margin: 0.25rem 0.5rem;
+}
+
+.btn-link-sm.px-0 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.copyright {
+    font-size: 0.8rem;
+    font-weight: 200;
+}
+
+.logos-container {
+    padding-top: 2rem;
+}
+
+.footer-social-logo {
+    height: 1.7rem;
+}
+
+.footer-store-logo {
+    height: 2.5rem;
+}

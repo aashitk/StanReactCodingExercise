@@ -1,0 +1,24 @@
+.card-placeholder {
+    cursor: pointer;
+}
+.card-placeholder .card {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #1E1E1E;
+    height: 14rem;
+    width: 9rem;
+    color: #FFF;
+}
+
+.card-placeholder .card .banner {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.card-placeholder .title {
+    font-size: 0.8rem;
+}
+
+.card-placeholder .title:hover {
+    text-decoration: underline;
+}
