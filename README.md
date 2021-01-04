@@ -1,16 +1,5 @@
 # StanReactCodingExercise
-A coding exercise for SPA in reactjs
-
-## How to use
-
-> Download or clone this repo by using below command
-
-```js
-git clone https://github.com/aashitk/StanReactCodingExercise.git
-```
-
-# Getting Started with Create React App
-
+This is a coding exercise for SPA in reactjs.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -32,6 +21,14 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+## How to use
+
+> Download or clone this repo by using below command
+
+```js
+git clone https://github.com/aashitk/StanReactCodingExercise.git
+```
 
 ## Technical approach
 
